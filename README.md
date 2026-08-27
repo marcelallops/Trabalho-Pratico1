@@ -17,7 +17,7 @@ O TP1 é composto por 12 exercícios envolvendo manipulação de strings, cifrag
 |---|-----------|------|-----------|--------|
 | 1 | Ciframento de César | Iterativo | C | ✅ |
 | 2 | Alteração Aleatória | Iterativo | Java | ✅ |
-| 3 | Is (vogais, consoantes, inteiro, real) | Iterativo | - | ⬜ |
+| 3 | Is (vogais, consoantes, inteiro, real) | Iterativo | - | ✅ |
 | 4 | Inversão de String | Iterativo | - | ⬜ |
 | 5 | Soma de Dígitos | Recursivo | - | ⬜ |
 | 6 | Verificação de Anagrama | Iterativo | - | ⬜ |
