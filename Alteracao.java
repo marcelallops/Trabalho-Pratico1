@@ -24,7 +24,7 @@ public class Alteracao {
     public static String substituirLetra(String texto, Random gerador) {
 
     // lógica de substiuirLetra. Ela precisa fazer duas coisas em sequencia: sortear as duas letras, depois substituir.
-    char letra1 = (char)('a' + (Math.abs(gerador.nextInt()) %26));
+    char letra1 = (char)('a' + (Math.abs(gerador.nextInt()) %26)); // pegar o último dígito (resto da divisão por 26)
     char letra2 = (char)('a' + (Math.abs(gerador.nextInt()) %26));
     
      // 'for' percorre a string, descide se substitui ou mantém a letra, e vai construindo a string resultado.
