@@ -18,15 +18,15 @@ O TP1 é composto por 12 exercícios envolvendo manipulação de strings, cifrag
 | 1 | Ciframento de César | Iterativo | C | ✅ |
 | 2 | Alteração Aleatória | Iterativo | Java | ✅ |
 | 3 | Is (vogais, consoantes, inteiro, real) | Iterativo | - | ✅ |
-| 4 | Inversão de String | Iterativo | - | ⬜ |
-| 5 | Soma de Dígitos | Recursivo | - | ⬜ |
-| 6 | Verificação de Anagrama | Iterativo | - | ⬜ |
-| 7 | Substring Mais Longa Sem Repetição | Iterativo | - | ⬜ |
-| 8 | Validação de Senha | Iterativo | - | ⬜ |
-| 9 | Ciframento de César | Recursivo | - | ⬜ |
-| 10 | Is | Recursivo | - | ⬜ |
-| 11 | Inversão de String | Recursivo | - | ⬜ |
-| 12 | Soma de Dígitos | Recursivo | - | ⬜ |
+| 4 | Inversão de String | Iterativo | - | ✅ |
+| 5 | Soma de Dígitos | Recursivo | - | ✅ |
+| 6 | Verificação de Anagrama | Iterativo | - | ✅ |
+| 7 | Substring Mais Longa Sem Repetição | Iterativo | - | ✅ |
+| 8 | Validação de Senha | Iterativo | - | ✅ |
+| 9 | Ciframento de César | Recursivo | - | ✅ |
+| 10 | Is | Recursivo | - | ✅ |
+| 11 | Inversão de String | Recursivo | - | ✅ |
+| 12 | Soma de Dígitos | Recursivo | - | ✅ |
 
 ## Como compilar e executar
 
@@ -44,6 +44,6 @@ java NomeDoArquivo
 
 A entrada é lida via terminal (stdin), linha por linha, conforme especificado em cada exercício.
 
-## Autor
+## Autora
 
 Marcela Lopes
